@@ -1,4 +1,4 @@
-💻 Marco Fortes
+Marco Fortes here 👋
 
 **` Developer and Tecnology Passionate`**
 
@@ -76,20 +76,21 @@ style="padding-right: 30px"
 
 ### 🎲 Statistics
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcoFortes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+
+
 <img 
-src="https://github-readme-stats.vercel.app/api?username=MarcoFortes&show_icons=true&theme=tokyonight&include_all_commits=true&locale-en"
-alt="Github-States"
-align="left"
-height="200px"
-style="padding-right: 10px;"
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFortes&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
+  />
 
-<img 
-align="left"
-alt="Github-States"
-height="200"
-style="padding-right: 100px;"
-src="https://github-readme-state.vercel.app/api/top-langs/?username=MarcoFortes&theme=tokyonight"
-/>
-
-
+</p>
