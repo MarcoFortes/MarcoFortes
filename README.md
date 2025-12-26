@@ -2,7 +2,7 @@ Marco Fortes here 👋
 
 **` Developer and Tecnology Passionate`**
 
-💻 Developer passionate about technology, programming, and entrepreneurship, with strong interest in frontend, backend, and problem-solving. Always eager to learn new tools and share knowledge. Currently focused on JavaScript, React, AI, C, Python and Web Development, while also exploring best practices in Design and Usability.
+💻 Developer passionate about technology, programming, and entrepreneurship, with strong interest in frontend, backend, and problem-solving. Always eager to learn new tools and share knowledge. Currently focused on JavaScript, React, AI, C, Python, Java and Web Development, while also exploring best practices in Design and Usability.
 
 <p align="left">
     <a href="https://github.com/ForrestKnight?tab=followers">
@@ -67,6 +67,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 align="left"
 alt="Python"
 title="Python"
+width="40px"
+style="padding-right: 30px"
+/>
+
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+align="left"
+alt="Java"
+title="Java"
 width="40px"
 style="padding-right: 30px"
 />
